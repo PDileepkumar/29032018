@@ -1258,12 +1258,12 @@ img{
 
 .main-features{
 	position:relative;
-	padding:90px 0px 50px;	
+	padding:90px 0px 20px;	
 }
 
 .main-features .title-box{
 	position:relative;
-	margin-bottom:80px;	
+	margin-bottom:30px;	
 }
 
 .main-features .title-box h1{
@@ -1286,7 +1286,7 @@ img{
 .main-features .title-box .text{
 	position:relative;
 	font-size:18px;
-	font-weight:300;
+	font-weight:400;
 	color:#7c7c7c;
 }
 
